@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Share</string>
+    <string name="title_book_detail">Book Detail</string>
+    <string name="search_hint">Enter Book Name</string>
+    <string name="title_search_results">Search Results</string>
+    <string name="title_activity_add_book">Post your book to sell</string>
+</resources>
